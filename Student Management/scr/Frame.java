@@ -34,8 +34,6 @@ public class Frame extends JFrame {
     String a2 = "Computer Science";
     String a3 = "Korean Language";
     String a4 = "Chinese Language";
-    String a5 = "Select Faculty";
-    String a6 = "Null";
     String input, input2, input3, input4;
     
     private JTable table;
